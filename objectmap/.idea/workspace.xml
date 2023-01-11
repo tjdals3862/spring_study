@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="35f8c54e-1afa-42f6-8379-755bcc07341f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/annotation/Decode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/annotation/Timer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/aop/DecodeAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/aop/ParameterAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/aop/TimerAop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/controller/ResApiController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aop/src/main/java/com/example/aop/dto/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/company/ioc/ioc/Base64Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/company/ioc/ioc/Encoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/company/ioc/ioc/IEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/company/ioc/ioc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/com/company/ioc/ioc/UrlEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ioc/src/main/resources/com/company/ioc/ioc/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/sample.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex1/src/main/java/com/example/ex1/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex2/src/main/java/org/zerock/ex2/entity/Memo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex2/src/main/java/org/zerock/ex2/repository/MemoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex2/src/test/java/org/zerock/ex2/repository/MemoRepositoryTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/java/org/zerock/ex3/controller/SampleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/java/org/zerock/ex3/dto/SampleDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/resources/templates/sample/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/resources/templates/sample/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/resources/templates/sample/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot/ex3/src/main/resources/templates/sample/exLink.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KBLGPrqVbQ72vyqxL6Da88MbUL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "File.Encoding"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f8c54e-1afa-42f6-8379-755bcc07341f" name="Changes" comment="" />
+      <created>1673442934393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673442934393</updated>
+      <workItem from="1673442935889" duration="1244000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
